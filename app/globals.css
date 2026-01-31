@@ -5,7 +5,6 @@
 /* Leaflet CSS */
 @import 'leaflet/dist/leaflet.css';
 
-/* Estilos globales */
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -14,58 +13,9 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  background: linear-gradient(to bottom, transparent, rgb(var(--background-end-rgb))) rgb(var(--background-start-rgb));
 }
 
-/* Fix para Leaflet en Next.js */
 .leaflet-container {
   z-index: 1;
-}
-
-.leaflet-pane {
-  z-index: 400;
-}
-
-.leaflet-top,
-.leaflet-bottom {
-  z-index: 1000;
-}
-
-/* Animaciones personalizadas */
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-.animate-fadeIn {
-  animation: fadeIn 0.5s ease-out;
-}
-
-/* Scrollbar personalizado */
-::-webkit-scrollbar {
-  width: 10px;
-}
-
-::-webkit-scrollbar-track {
-  background-color: #f3f4f6;
-}
-
-::-webkit-scrollbar-thumb {
-  background-color: #3b82f6;
-  border-radius: 9999px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background-color: #2563eb;
 }
