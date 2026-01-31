@@ -1,0 +1,9 @@
+{
+  "total_registros": 187560,
+  "total_parroquias": 1042,
+  "total_provincias": 24,
+  "periodo": "2020-2024",
+  "fuente_precipitacion": "CHIRPS/NASA",
+  "fuente_parroquias": "INEC Ecuador",
+  "fecha_generacion": "2026-01-31 00:09:51"
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "provincia": "Azuay",
+    "num_parroquias": 76,
+    "precip_promedio": 24.982669590643273,
+    "casos_alto_riesgo": 53
+  },
+  {
+    "provincia": "Bolívar",
+    "num_parroquias": 26,
+    "precip_promedio": 40.234559829059826,
+    "casos_alto_riesgo": 0
+  },
+  {
+    "provincia": "Carchi",
+    "num_parroquias": 32,
+    "precip_promedio": 34.277520833333334,
+    "casos_alto_riesgo": 349
+  },
+  {
+    "provincia": "Cañar",
+    "num_parroquias": 33,
+    "precip_promedio": 26.03624579124579,
+    "casos_alto_riesgo": 0
+  },
+  {
+    "provincia": "Chimborazo",
+    "num_parroquias": 55,
+    "precip_promedio": 25.249429292929293,
+    "casos_alto_riesgo": 103
+  },
+  {
+    "provincia": "Cotopaxi",
+    "num_parroquias": 40,
+    "precip_promedio": 29.91437361111111,
+    "casos_alto_riesgo": 0
+  },
+  {
+    "provincia": "El Oro",
+    "num_parroquias": 63,
+    "precip_promedio": 34.759427951388886,
+    "casos_alto_riesgo": 1078
+  },
+  {
+    "provincia": "Esmeraldas",
+    "num_parroquias": 63,
+    "precip_promedio": 83.64265104166667,
+    "casos_alto_riesgo": 1024
+  },
+  {
+    "provincia": "Galápagos",
+    "num_parroquias": 8,
+    "precip_promedio": 3.053256944444444,
+    "casos_alto_riesgo": 1
+  },
+  {
+    "provincia": "Guayas",
+    "num_parroquias": 54,
+    "precip_promedio": 44.07020576131688,
+    "casos_alto_riesgo": 1236
+  },
+  {
+    "provincia": "Imbabura",
+    "num_parroquias": 42,
+    "precip_promedio": 29.243296296296297,
+    "casos_alto_riesgo": 115
+  },
+  {
+    "provincia": "Loja",
+    "num_parroquias": 94,
+    "precip_promedio": 27.49162647754137,
+    "casos_alto_riesgo": 806
+  },
+  {
+    "provincia": "Los Ríos",
+    "num_parroquias": 30,
+    "precip_promedio": 59.26083888888889,
+    "casos_alto_riesgo": 591
+  },
+  {
+    "provincia": "Manabí",
+    "num_parroquias": 76,
+    "precip_promedio": 36.43701659451659,
+    "casos_alto_riesgo": 1803
+  },
+  {
+    "provincia": "Morona Santiago",
+    "num_parroquias": 58,
+    "precip_promedio": 78.2991398467433,
+    "casos_alto_riesgo": 3226
+  },
+  {
+    "provincia": "Napo",
+    "num_parroquias": 25,
+    "precip_promedio": 89.62586,
+    "casos_alto_riesgo": 1899
+  },
+  {
+    "provincia": "Orellana",
+    "num_parroquias": 32,
+    "precip_promedio": 107.95381076388888,
+    "casos_alto_riesgo": 3484
+  },
+  {
+    "provincia": "Pastaza",
+    "num_parroquias": 21,
+    "precip_promedio": 128.0148492063492,
+    "casos_alto_riesgo": 2756
+  },
+  {
+    "provincia": "Pichincha",
+    "num_parroquias": 61,
+    "precip_promedio": 34.70978324225865,
+    "casos_alto_riesgo": 309
+  },
+  {
+    "provincia": "Santa Elena",
+    "num_parroquias": 11,
+    "precip_promedio": 12.303535353535354,
+    "casos_alto_riesgo": 67
+  },
+  {
+    "provincia": "Santo Domingo de los Tsáchilas",
+    "num_parroquias": 12,
+    "precip_promedio": 77.23633333333333,
+    "casos_alto_riesgo": 137
+  },
+  {
+    "provincia": "Sucumbíos",
+    "num_parroquias": 36,
+    "precip_promedio": 101.82771450617284,
+    "casos_alto_riesgo": 3658
+  },
+  {
+    "provincia": "Tungurahua",
+    "num_parroquias": 53,
+    "precip_promedio": 26.049715932914047,
+    "casos_alto_riesgo": 171
+  },
+  {
+    "provincia": "Zamora Chinchipe",
+    "num_parroquias": 38,
+    "precip_promedio": 45.052966374269005,
+    "casos_alto_riesgo": 42
+  }
+]

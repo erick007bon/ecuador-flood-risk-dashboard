@@ -1,0 +1,1082 @@
+[
+  {
+    "año": 2020,
+    "mes": 1,
+    "nivel_riesgo": "Alto",
+    "cantidad": 295
+  },
+  {
+    "año": 2020,
+    "mes": 1,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2333
+  },
+  {
+    "año": 2020,
+    "mes": 1,
+    "nivel_riesgo": "Medio",
+    "cantidad": 498
+  },
+  {
+    "año": 2020,
+    "mes": 2,
+    "nivel_riesgo": "Alto",
+    "cantidad": 569
+  },
+  {
+    "año": 2020,
+    "mes": 2,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 1907
+  },
+  {
+    "año": 2020,
+    "mes": 2,
+    "nivel_riesgo": "Medio",
+    "cantidad": 650
+  },
+  {
+    "año": 2020,
+    "mes": 3,
+    "nivel_riesgo": "Alto",
+    "cantidad": 390
+  },
+  {
+    "año": 2020,
+    "mes": 3,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2182
+  },
+  {
+    "año": 2020,
+    "mes": 3,
+    "nivel_riesgo": "Medio",
+    "cantidad": 554
+  },
+  {
+    "año": 2020,
+    "mes": 4,
+    "nivel_riesgo": "Alto",
+    "cantidad": 565
+  },
+  {
+    "año": 2020,
+    "mes": 4,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2067
+  },
+  {
+    "año": 2020,
+    "mes": 4,
+    "nivel_riesgo": "Medio",
+    "cantidad": 494
+  },
+  {
+    "año": 2020,
+    "mes": 5,
+    "nivel_riesgo": "Alto",
+    "cantidad": 420
+  },
+  {
+    "año": 2020,
+    "mes": 5,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2492
+  },
+  {
+    "año": 2020,
+    "mes": 5,
+    "nivel_riesgo": "Medio",
+    "cantidad": 214
+  },
+  {
+    "año": 2020,
+    "mes": 6,
+    "nivel_riesgo": "Alto",
+    "cantidad": 435
+  },
+  {
+    "año": 2020,
+    "mes": 6,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2561
+  },
+  {
+    "año": 2020,
+    "mes": 6,
+    "nivel_riesgo": "Medio",
+    "cantidad": 130
+  },
+  {
+    "año": 2020,
+    "mes": 7,
+    "nivel_riesgo": "Alto",
+    "cantidad": 430
+  },
+  {
+    "año": 2020,
+    "mes": 7,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2532
+  },
+  {
+    "año": 2020,
+    "mes": 7,
+    "nivel_riesgo": "Medio",
+    "cantidad": 164
+  },
+  {
+    "año": 2020,
+    "mes": 8,
+    "nivel_riesgo": "Alto",
+    "cantidad": 241
+  },
+  {
+    "año": 2020,
+    "mes": 8,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2821
+  },
+  {
+    "año": 2020,
+    "mes": 8,
+    "nivel_riesgo": "Medio",
+    "cantidad": 64
+  },
+  {
+    "año": 2020,
+    "mes": 9,
+    "nivel_riesgo": "Alto",
+    "cantidad": 182
+  },
+  {
+    "año": 2020,
+    "mes": 9,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2865
+  },
+  {
+    "año": 2020,
+    "mes": 9,
+    "nivel_riesgo": "Medio",
+    "cantidad": 79
+  },
+  {
+    "año": 2020,
+    "mes": 10,
+    "nivel_riesgo": "Alto",
+    "cantidad": 82
+  },
+  {
+    "año": 2020,
+    "mes": 10,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2959
+  },
+  {
+    "año": 2020,
+    "mes": 10,
+    "nivel_riesgo": "Medio",
+    "cantidad": 85
+  },
+  {
+    "año": 2020,
+    "mes": 11,
+    "nivel_riesgo": "Alto",
+    "cantidad": 188
+  },
+  {
+    "año": 2020,
+    "mes": 11,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2857
+  },
+  {
+    "año": 2020,
+    "mes": 11,
+    "nivel_riesgo": "Medio",
+    "cantidad": 81
+  },
+  {
+    "año": 2020,
+    "mes": 12,
+    "nivel_riesgo": "Alto",
+    "cantidad": 388
+  },
+  {
+    "año": 2020,
+    "mes": 12,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2513
+  },
+  {
+    "año": 2020,
+    "mes": 12,
+    "nivel_riesgo": "Medio",
+    "cantidad": 225
+  },
+  {
+    "año": 2021,
+    "mes": 1,
+    "nivel_riesgo": "Alto",
+    "cantidad": 336
+  },
+  {
+    "año": 2021,
+    "mes": 1,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2379
+  },
+  {
+    "año": 2021,
+    "mes": 1,
+    "nivel_riesgo": "Medio",
+    "cantidad": 411
+  },
+  {
+    "año": 2021,
+    "mes": 2,
+    "nivel_riesgo": "Alto",
+    "cantidad": 342
+  },
+  {
+    "año": 2021,
+    "mes": 2,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2222
+  },
+  {
+    "año": 2021,
+    "mes": 2,
+    "nivel_riesgo": "Medio",
+    "cantidad": 562
+  },
+  {
+    "año": 2021,
+    "mes": 3,
+    "nivel_riesgo": "Alto",
+    "cantidad": 1049
+  },
+  {
+    "año": 2021,
+    "mes": 3,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 1448
+  },
+  {
+    "año": 2021,
+    "mes": 3,
+    "nivel_riesgo": "Medio",
+    "cantidad": 629
+  },
+  {
+    "año": 2021,
+    "mes": 4,
+    "nivel_riesgo": "Alto",
+    "cantidad": 576
+  },
+  {
+    "año": 2021,
+    "mes": 4,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 1966
+  },
+  {
+    "año": 2021,
+    "mes": 4,
+    "nivel_riesgo": "Medio",
+    "cantidad": 584
+  },
+  {
+    "año": 2021,
+    "mes": 5,
+    "nivel_riesgo": "Alto",
+    "cantidad": 368
+  },
+  {
+    "año": 2021,
+    "mes": 5,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2586
+  },
+  {
+    "año": 2021,
+    "mes": 5,
+    "nivel_riesgo": "Medio",
+    "cantidad": 172
+  },
+  {
+    "año": 2021,
+    "mes": 6,
+    "nivel_riesgo": "Alto",
+    "cantidad": 295
+  },
+  {
+    "año": 2021,
+    "mes": 6,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2724
+  },
+  {
+    "año": 2021,
+    "mes": 6,
+    "nivel_riesgo": "Medio",
+    "cantidad": 107
+  },
+  {
+    "año": 2021,
+    "mes": 7,
+    "nivel_riesgo": "Alto",
+    "cantidad": 175
+  },
+  {
+    "año": 2021,
+    "mes": 7,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2876
+  },
+  {
+    "año": 2021,
+    "mes": 7,
+    "nivel_riesgo": "Medio",
+    "cantidad": 75
+  },
+  {
+    "año": 2021,
+    "mes": 8,
+    "nivel_riesgo": "Alto",
+    "cantidad": 238
+  },
+  {
+    "año": 2021,
+    "mes": 8,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2798
+  },
+  {
+    "año": 2021,
+    "mes": 8,
+    "nivel_riesgo": "Medio",
+    "cantidad": 90
+  },
+  {
+    "año": 2021,
+    "mes": 9,
+    "nivel_riesgo": "Alto",
+    "cantidad": 186
+  },
+  {
+    "año": 2021,
+    "mes": 9,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2829
+  },
+  {
+    "año": 2021,
+    "mes": 9,
+    "nivel_riesgo": "Medio",
+    "cantidad": 111
+  },
+  {
+    "año": 2021,
+    "mes": 10,
+    "nivel_riesgo": "Alto",
+    "cantidad": 299
+  },
+  {
+    "año": 2021,
+    "mes": 10,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2737
+  },
+  {
+    "año": 2021,
+    "mes": 10,
+    "nivel_riesgo": "Medio",
+    "cantidad": 90
+  },
+  {
+    "año": 2021,
+    "mes": 11,
+    "nivel_riesgo": "Alto",
+    "cantidad": 256
+  },
+  {
+    "año": 2021,
+    "mes": 11,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2822
+  },
+  {
+    "año": 2021,
+    "mes": 11,
+    "nivel_riesgo": "Medio",
+    "cantidad": 48
+  },
+  {
+    "año": 2021,
+    "mes": 12,
+    "nivel_riesgo": "Alto",
+    "cantidad": 263
+  },
+  {
+    "año": 2021,
+    "mes": 12,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2579
+  },
+  {
+    "año": 2021,
+    "mes": 12,
+    "nivel_riesgo": "Medio",
+    "cantidad": 284
+  },
+  {
+    "año": 2022,
+    "mes": 1,
+    "nivel_riesgo": "Alto",
+    "cantidad": 278
+  },
+  {
+    "año": 2022,
+    "mes": 1,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2462
+  },
+  {
+    "año": 2022,
+    "mes": 1,
+    "nivel_riesgo": "Medio",
+    "cantidad": 386
+  },
+  {
+    "año": 2022,
+    "mes": 2,
+    "nivel_riesgo": "Alto",
+    "cantidad": 386
+  },
+  {
+    "año": 2022,
+    "mes": 2,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2165
+  },
+  {
+    "año": 2022,
+    "mes": 2,
+    "nivel_riesgo": "Medio",
+    "cantidad": 575
+  },
+  {
+    "año": 2022,
+    "mes": 3,
+    "nivel_riesgo": "Alto",
+    "cantidad": 953
+  },
+  {
+    "año": 2022,
+    "mes": 3,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 1604
+  },
+  {
+    "año": 2022,
+    "mes": 3,
+    "nivel_riesgo": "Medio",
+    "cantidad": 569
+  },
+  {
+    "año": 2022,
+    "mes": 4,
+    "nivel_riesgo": "Alto",
+    "cantidad": 618
+  },
+  {
+    "año": 2022,
+    "mes": 4,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2057
+  },
+  {
+    "año": 2022,
+    "mes": 4,
+    "nivel_riesgo": "Medio",
+    "cantidad": 451
+  },
+  {
+    "año": 2022,
+    "mes": 5,
+    "nivel_riesgo": "Alto",
+    "cantidad": 318
+  },
+  {
+    "año": 2022,
+    "mes": 5,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2632
+  },
+  {
+    "año": 2022,
+    "mes": 5,
+    "nivel_riesgo": "Medio",
+    "cantidad": 176
+  },
+  {
+    "año": 2022,
+    "mes": 6,
+    "nivel_riesgo": "Alto",
+    "cantidad": 514
+  },
+  {
+    "año": 2022,
+    "mes": 6,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2341
+  },
+  {
+    "año": 2022,
+    "mes": 6,
+    "nivel_riesgo": "Medio",
+    "cantidad": 271
+  },
+  {
+    "año": 2022,
+    "mes": 7,
+    "nivel_riesgo": "Alto",
+    "cantidad": 379
+  },
+  {
+    "año": 2022,
+    "mes": 7,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2703
+  },
+  {
+    "año": 2022,
+    "mes": 7,
+    "nivel_riesgo": "Medio",
+    "cantidad": 44
+  },
+  {
+    "año": 2022,
+    "mes": 8,
+    "nivel_riesgo": "Alto",
+    "cantidad": 162
+  },
+  {
+    "año": 2022,
+    "mes": 8,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2858
+  },
+  {
+    "año": 2022,
+    "mes": 8,
+    "nivel_riesgo": "Medio",
+    "cantidad": 106
+  },
+  {
+    "año": 2022,
+    "mes": 9,
+    "nivel_riesgo": "Alto",
+    "cantidad": 211
+  },
+  {
+    "año": 2022,
+    "mes": 9,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2777
+  },
+  {
+    "año": 2022,
+    "mes": 9,
+    "nivel_riesgo": "Medio",
+    "cantidad": 138
+  },
+  {
+    "año": 2022,
+    "mes": 10,
+    "nivel_riesgo": "Alto",
+    "cantidad": 336
+  },
+  {
+    "año": 2022,
+    "mes": 10,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2743
+  },
+  {
+    "año": 2022,
+    "mes": 10,
+    "nivel_riesgo": "Medio",
+    "cantidad": 47
+  },
+  {
+    "año": 2022,
+    "mes": 11,
+    "nivel_riesgo": "Alto",
+    "cantidad": 199
+  },
+  {
+    "año": 2022,
+    "mes": 11,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2866
+  },
+  {
+    "año": 2022,
+    "mes": 11,
+    "nivel_riesgo": "Medio",
+    "cantidad": 61
+  },
+  {
+    "año": 2022,
+    "mes": 12,
+    "nivel_riesgo": "Alto",
+    "cantidad": 126
+  },
+  {
+    "año": 2022,
+    "mes": 12,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2941
+  },
+  {
+    "año": 2022,
+    "mes": 12,
+    "nivel_riesgo": "Medio",
+    "cantidad": 59
+  },
+  {
+    "año": 2023,
+    "mes": 1,
+    "nivel_riesgo": "Alto",
+    "cantidad": 521
+  },
+  {
+    "año": 2023,
+    "mes": 1,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 1975
+  },
+  {
+    "año": 2023,
+    "mes": 1,
+    "nivel_riesgo": "Medio",
+    "cantidad": 630
+  },
+  {
+    "año": 2023,
+    "mes": 2,
+    "nivel_riesgo": "Alto",
+    "cantidad": 368
+  },
+  {
+    "año": 2023,
+    "mes": 2,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2121
+  },
+  {
+    "año": 2023,
+    "mes": 2,
+    "nivel_riesgo": "Medio",
+    "cantidad": 637
+  },
+  {
+    "año": 2023,
+    "mes": 3,
+    "nivel_riesgo": "Alto",
+    "cantidad": 1250
+  },
+  {
+    "año": 2023,
+    "mes": 3,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 1238
+  },
+  {
+    "año": 2023,
+    "mes": 3,
+    "nivel_riesgo": "Medio",
+    "cantidad": 638
+  },
+  {
+    "año": 2023,
+    "mes": 4,
+    "nivel_riesgo": "Alto",
+    "cantidad": 1330
+  },
+  {
+    "año": 2023,
+    "mes": 4,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 954
+  },
+  {
+    "año": 2023,
+    "mes": 4,
+    "nivel_riesgo": "Medio",
+    "cantidad": 842
+  },
+  {
+    "año": 2023,
+    "mes": 5,
+    "nivel_riesgo": "Alto",
+    "cantidad": 451
+  },
+  {
+    "año": 2023,
+    "mes": 5,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2294
+  },
+  {
+    "año": 2023,
+    "mes": 5,
+    "nivel_riesgo": "Medio",
+    "cantidad": 381
+  },
+  {
+    "año": 2023,
+    "mes": 6,
+    "nivel_riesgo": "Alto",
+    "cantidad": 296
+  },
+  {
+    "año": 2023,
+    "mes": 6,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2692
+  },
+  {
+    "año": 2023,
+    "mes": 6,
+    "nivel_riesgo": "Medio",
+    "cantidad": 138
+  },
+  {
+    "año": 2023,
+    "mes": 7,
+    "nivel_riesgo": "Alto",
+    "cantidad": 394
+  },
+  {
+    "año": 2023,
+    "mes": 7,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2537
+  },
+  {
+    "año": 2023,
+    "mes": 7,
+    "nivel_riesgo": "Medio",
+    "cantidad": 195
+  },
+  {
+    "año": 2023,
+    "mes": 8,
+    "nivel_riesgo": "Alto",
+    "cantidad": 132
+  },
+  {
+    "año": 2023,
+    "mes": 8,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2812
+  },
+  {
+    "año": 2023,
+    "mes": 8,
+    "nivel_riesgo": "Medio",
+    "cantidad": 182
+  },
+  {
+    "año": 2023,
+    "mes": 9,
+    "nivel_riesgo": "Alto",
+    "cantidad": 80
+  },
+  {
+    "año": 2023,
+    "mes": 9,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2820
+  },
+  {
+    "año": 2023,
+    "mes": 9,
+    "nivel_riesgo": "Medio",
+    "cantidad": 226
+  },
+  {
+    "año": 2023,
+    "mes": 10,
+    "nivel_riesgo": "Alto",
+    "cantidad": 170
+  },
+  {
+    "año": 2023,
+    "mes": 10,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2786
+  },
+  {
+    "año": 2023,
+    "mes": 10,
+    "nivel_riesgo": "Medio",
+    "cantidad": 170
+  },
+  {
+    "año": 2023,
+    "mes": 11,
+    "nivel_riesgo": "Alto",
+    "cantidad": 206
+  },
+  {
+    "año": 2023,
+    "mes": 11,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2828
+  },
+  {
+    "año": 2023,
+    "mes": 11,
+    "nivel_riesgo": "Medio",
+    "cantidad": 92
+  },
+  {
+    "año": 2023,
+    "mes": 12,
+    "nivel_riesgo": "Alto",
+    "cantidad": 313
+  },
+  {
+    "año": 2023,
+    "mes": 12,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2371
+  },
+  {
+    "año": 2023,
+    "mes": 12,
+    "nivel_riesgo": "Medio",
+    "cantidad": 442
+  },
+  {
+    "año": 2024,
+    "mes": 1,
+    "nivel_riesgo": "Alto",
+    "cantidad": 324
+  },
+  {
+    "año": 2024,
+    "mes": 1,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2264
+  },
+  {
+    "año": 2024,
+    "mes": 1,
+    "nivel_riesgo": "Medio",
+    "cantidad": 538
+  },
+  {
+    "año": 2024,
+    "mes": 2,
+    "nivel_riesgo": "Alto",
+    "cantidad": 981
+  },
+  {
+    "año": 2024,
+    "mes": 2,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 1623
+  },
+  {
+    "año": 2024,
+    "mes": 2,
+    "nivel_riesgo": "Medio",
+    "cantidad": 522
+  },
+  {
+    "año": 2024,
+    "mes": 3,
+    "nivel_riesgo": "Alto",
+    "cantidad": 410
+  },
+  {
+    "año": 2024,
+    "mes": 3,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2164
+  },
+  {
+    "año": 2024,
+    "mes": 3,
+    "nivel_riesgo": "Medio",
+    "cantidad": 552
+  },
+  {
+    "año": 2024,
+    "mes": 4,
+    "nivel_riesgo": "Alto",
+    "cantidad": 576
+  },
+  {
+    "año": 2024,
+    "mes": 4,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2122
+  },
+  {
+    "año": 2024,
+    "mes": 4,
+    "nivel_riesgo": "Medio",
+    "cantidad": 428
+  },
+  {
+    "año": 2024,
+    "mes": 5,
+    "nivel_riesgo": "Alto",
+    "cantidad": 424
+  },
+  {
+    "año": 2024,
+    "mes": 5,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2516
+  },
+  {
+    "año": 2024,
+    "mes": 5,
+    "nivel_riesgo": "Medio",
+    "cantidad": 186
+  },
+  {
+    "año": 2024,
+    "mes": 6,
+    "nivel_riesgo": "Alto",
+    "cantidad": 428
+  },
+  {
+    "año": 2024,
+    "mes": 6,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2588
+  },
+  {
+    "año": 2024,
+    "mes": 6,
+    "nivel_riesgo": "Medio",
+    "cantidad": 110
+  },
+  {
+    "año": 2024,
+    "mes": 7,
+    "nivel_riesgo": "Alto",
+    "cantidad": 203
+  },
+  {
+    "año": 2024,
+    "mes": 7,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2880
+  },
+  {
+    "año": 2024,
+    "mes": 7,
+    "nivel_riesgo": "Medio",
+    "cantidad": 43
+  },
+  {
+    "año": 2024,
+    "mes": 8,
+    "nivel_riesgo": "Alto",
+    "cantidad": 122
+  },
+  {
+    "año": 2024,
+    "mes": 8,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2899
+  },
+  {
+    "año": 2024,
+    "mes": 8,
+    "nivel_riesgo": "Medio",
+    "cantidad": 105
+  },
+  {
+    "año": 2024,
+    "mes": 9,
+    "nivel_riesgo": "Alto",
+    "cantidad": 134
+  },
+  {
+    "año": 2024,
+    "mes": 9,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2925
+  },
+  {
+    "año": 2024,
+    "mes": 9,
+    "nivel_riesgo": "Medio",
+    "cantidad": 67
+  },
+  {
+    "año": 2024,
+    "mes": 10,
+    "nivel_riesgo": "Alto",
+    "cantidad": 184
+  },
+  {
+    "año": 2024,
+    "mes": 10,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2859
+  },
+  {
+    "año": 2024,
+    "mes": 10,
+    "nivel_riesgo": "Medio",
+    "cantidad": 83
+  },
+  {
+    "año": 2024,
+    "mes": 11,
+    "nivel_riesgo": "Alto",
+    "cantidad": 239
+  },
+  {
+    "año": 2024,
+    "mes": 11,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2796
+  },
+  {
+    "año": 2024,
+    "mes": 11,
+    "nivel_riesgo": "Medio",
+    "cantidad": 91
+  },
+  {
+    "año": 2024,
+    "mes": 12,
+    "nivel_riesgo": "Alto",
+    "cantidad": 324
+  },
+  {
+    "año": 2024,
+    "mes": 12,
+    "nivel_riesgo": "Bajo",
+    "cantidad": 2564
+  },
+  {
+    "año": 2024,
+    "mes": 12,
+    "nivel_riesgo": "Medio",
+    "cantidad": 238
+  }
+]
