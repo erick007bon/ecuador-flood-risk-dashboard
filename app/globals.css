@@ -7,7 +7,7 @@
 
 /* Estilos globales */
 body {
-  @apply bg-gray-50;
+  background-color: #f9fafb; /* bg-gray-50 */
 }
 
 /* Fix para Leaflet en Next.js */
@@ -46,13 +46,14 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-  @apply bg-gray-100;
+  background-color: #f3f4f6; /* bg-gray-100 */
 }
 
 ::-webkit-scrollbar-thumb {
-  @apply bg-blue-500 rounded-full;
+  background-color: #3b82f6; /* bg-blue-500 */
+  border-radius: 9999px; /* rounded-full */
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  @apply bg-blue-600;
+  background-color: #2563eb; /* bg-blue-600 */
 }
